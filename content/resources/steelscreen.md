@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Steelscreen: The European Metal Marketplace'
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/eb8aa2ff3011528aebdfdb8078c08a6c_steelscreen.exe
+file_size: 1282028
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Lecture Notes

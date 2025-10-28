@@ -2,6 +2,7 @@
 content_type: resource
 description: 'A Simplified Computer: The LMC = Little Man Computer'
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/1f1d09440ed1415aa6b399ce1e3a31a7_lnlmchandout.pdf
+file_size: 105502
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

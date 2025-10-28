@@ -2,6 +2,7 @@
 content_type: resource
 description: Intel Manufacturing Computing
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/7da6a76764097d2578db8479f2e82163_lnstanleystanzykcasesupports.pdf
+file_size: 208218
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

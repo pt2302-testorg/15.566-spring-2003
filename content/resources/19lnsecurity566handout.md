@@ -2,6 +2,7 @@
 content_type: resource
 description: Security
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/537cc7a5d1882009e6a6568a8cc836e1_19lnsecurity566handout.pdf
+file_size: 339704
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Steelscreen: A secure portal'
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/56728fb2d05bb588885c004a649c11f6_steelscreen_a_secure_portal.pdf
+file_size: 47337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

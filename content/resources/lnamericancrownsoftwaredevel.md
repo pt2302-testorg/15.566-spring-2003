@@ -2,6 +2,7 @@
 content_type: resource
 description: American Crown and Software Development
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/ed3a617592cd2488b4a8ee50ffe7f747_lnamericancrownsoftwaredevel.pdf
+file_size: 228402
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
