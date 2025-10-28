@@ -21,7 +21,7 @@ HANDOUTS
 {{< tdclose >}}{{< tdopen >}}
 Course Introduction ({{% resource_link f9ab12ea-6e60-6557-e6d3-293a327d9f03 "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[How Analog and Digital Recording Works, from HowStuffWorks.com](http://entertainment.howstuffworks.com/analog-digital.htm)
+{{% resource_link "13f0d909-beb4-45f1-a4b7-d7d6d6f476f1" "How Analog and Digital Recording Works, from HowStuffWorks.com" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Role of the Organization in IT**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -79,7 +79,7 @@ Designing an Industry-wide Information Architecture (II): Transaction Streams 
 A View Into the Future: Web Technologies Basics and the Semantic Web
 {{< tdclose >}}{{< tdopen >}}
 
-Subirana, Brian. "Zero Entry Barriers in an NP-Complete World: Transaction Streams and the Complexity of Electronic Markets." Research Paper 387. Barcelona, Spain: [IESE](http://www.iesep.com/), May 1999.
+Subirana, Brian. "Zero Entry Barriers in an NP-Complete World: Transaction Streams and the Complexity of Electronic Markets." Research Paper 387. Barcelona, Spain: {{% resource_link "401e9d65-9448-464b-95f7-82aef06b37c9" "IESE" %}}, May 1999.
 
 "Basic Information Flow in a Manufacturing Environment." In Robinson, Leonard A., James R. Davis and C. Wayne Alderman. _Accounting Information Systems: A Cycle Approach._ Harper & Row, 1988.
 
@@ -106,7 +106,7 @@ The Central Nervous System of Automated Virtual Manufacturing Plants
 
 Guest Speaker: Jim Miller, VP Supply Chain & Logistics, Cisco Systems, Inc.
 
-[http://www.cisco.com](http://www.cisco.com/)
+{{% resource_link "9d719ce6-b4cf-474f-a7b2-a31122127985" "http://www.cisco.com" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -118,7 +118,7 @@ Linking Process Modeling Architecture with ERP The Case of American Meter Compan
 
 Guest Lecture: Ed Brady, IT Director, American Meter Company
 
-[http://www.americanmeter.com](http://www.americanmeter.com)
+{{% resource_link "e2e5159a-693e-42e8-a3e0-22776c5c7745" "http://www.americanmeter.com" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -138,7 +138,7 @@ Cost Reduction of IT Automation Within Intel Manufacturing Plants
 
 Guest Speaker: Stanley Stanzyk, Automation Manager in Charge of Computing Cost Reduction. Intel Corp.
 
-[http://www.intel.com](http://www.intel.com)
+{{% resource_link "2280cc0c-7cd3-4397-9c4c-88f8225ba90c" "http://www.intel.com" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -198,7 +198,7 @@ Guest Speaker: Pam Lipson, Founder / CEO, Imagen Inc. Technology Assignment Due
 Steel Manufacturing and Cross-Company Processes   
 Delivering an Industry-wide IT Solution
 
-Guest: Richard Rowe, Founder of RoweCom \[Realvideo: ([MP4 - 204MB](https://archive.org/download/MIT15.566S03/15.566-subirana-220k.mp4)).  Note that some of the figures in the video have been disguised.\]
+Guest: Richard Rowe, Founder of RoweCom \[Realvideo: ({{% resource_link "24a1dc5c-f167-4bab-b5d5-5e430e2bd87a" "MP4 - 204MB" %}}).  Note that some of the figures in the video have been disguised.\]
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -220,7 +220,7 @@ Artificial Intelligence and the Robots of the Future
 
 Guest Speaker: Prof. Rodney Brooks Director, MIT Artificial Intelligence Laboratory
 
-[http://www.ai.mit.edu/](http://www.ai.mit.edu/)
+{{% resource_link "4889673f-a7cb-4a3d-a80a-fb0d8336e180" "http://www.ai.mit.edu/" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -238,7 +238,7 @@ What Should the CEO Know About Manufacturing?
 
 Wireless Technologies and 3G Guest Speaker: Lars-Göran Hansson, Manufacturing Processes, Ericsson
 
-[http://www.ericsson.com](http://www.ericsson.com)
+{{% resource_link "bd9ba108-2640-49cc-ad48-40ec93e2aebf" "http://www.ericsson.com" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
